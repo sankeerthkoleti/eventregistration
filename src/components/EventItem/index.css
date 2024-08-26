@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.i {
+  width: 20vw;
+  height: 19vh;
+  border-color: #475569;
+  border-style: solid;
+}
+
+button {
+  background-color: #475569;
+  border: none;
+  padding: 0px;
+}
+.h1 {
+  color: white;
+  margin: 0px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.p {
+  color: white;
+  margin: 0px;
+}

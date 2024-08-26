@@ -1,0 +1,14 @@
+/* Write your CSS here */
+ul {
+  width: 50vw;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #475569;
+  padding: 20px;
+  justify-content: space-around;
+  list-style-type: none;
+}
+.b {
+  display: flex;
+  height: 100vh;
+}
